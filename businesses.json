@@ -1,8 +1,8 @@
 [
-  {"id":1,"name":"Kaul Tech Solutions","sic":"62020","sic_description":"IT consultancy","category_group":"Digital & Technology","description":"Laptop repair, IT support, cloud services","location":"London","tags":["IT","repair","cloud"],"verified":true, "email": "test@test.com",
-  "phone": "+44 20 7946 0011"},
-  {"id":2,"name":"Bhat Catering Services","sic":"56210","sic_description":"Event catering","category_group":"Food & Hospitality","description":"Wedding and corporate catering","location":"London","tags":["catering","events","food"],"verified":true, "email": "test@test.com",
-  "phone": "+44 20 7946 0011"},
+  {"id":1,"name":"Oxford Prestige College Ltd","sic":"85590","sic_description":"Other education not elsewhere classified","category_group":"Education & Training","description":"Education and training provider (11+, Uni admissions etc)","location":"Bromley, Greater London","tags":["education", "admissions"],"verified":true, "email": "info@oxfordprestigecollege.co.uk",
+  "phone": "020 8658 8536"}, 
+  {"id":2,"name":"Health and Medical Services","sic":"","sic_description":"","category_group":"","description":"Health and medical services (doctor, vet, pharmacy etc)","location":"Edinburgh","tags":["health", "medical", "doctor", "veterinary", "pharmacy"],"verified":true, "email": "",
+  "phone": "078 940 573 25"}
   {"id":3,"name":"Pandita Legal Advisory","sic":"69102","sic_description":"Legal services","category_group":"Professional Services","description":"Contracts and small business law","location":"London","tags":["legal","contracts"],"verified":true, "email": "test@test.com",
   "phone": "+44 20 7946 0011"},
   {"id":4,"name":"Raina Property Services","sic":"68310","sic_description":"Real estate agency","category_group":"Property","description":"Lettings and property management","location":"London","tags":["property","lettings"],"verified":false,"email": "test@test.com",
@@ -19,4 +19,5 @@
   "phone": "+44 20 7946 0011"},
   {"id":10,"name":"Digital Boost Agency","sic":"73110","sic_description":"Advertising agency","category_group":"Marketing","description":"SEO and social media marketing","location":"London","tags":["marketing","seo"],"verified":true, "email": "test@test.com",
   "phone": "+44 20 7946 0011"}
+  
 ]
