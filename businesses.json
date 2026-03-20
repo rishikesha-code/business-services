@@ -1,0 +1,19 @@
+[
+  {"id":1,"name":"Kaul Tech Solutions","sic":"62020","sic_description":"IT consultancy","category_group":"Digital & Technology","description":"Laptop repair, IT support, cloud services","location":"London","tags":["IT","repair","cloud"],"verified":true},
+  {"id":2,"name":"Bhat Catering Services","sic":"56210","sic_description":"Event catering","category_group":"Food & Hospitality","description":"Wedding and corporate catering","location":"London","tags":["catering","events","food"],"verified":true},
+  {"id":3,"name":"Pandita Legal Advisory","sic":"69102","sic_description":"Legal services","category_group":"Professional Services","description":"Contracts and small business law","location":"London","tags":["legal","contracts"],"verified":true},
+  {"id":4,"name":"Raina Property Services","sic":"68310","sic_description":"Real estate agency","category_group":"Property","description":"Lettings and property management","location":"London","tags":["property","lettings"],"verified":false},
+  {"id":5,"name":"Tickoo Accounting","sic":"69201","sic_description":"Accounting services","category_group":"Finance","description":"Tax returns and bookkeeping","location":"London","tags":["tax","accounting"],"verified":true},
+
+  {"id":6,"name":"Urban Garden Care","sic":"81300","sic_description":"Landscaping","category_group":"Home Services","description":"Garden maintenance and landscaping","location":"London","tags":["garden","maintenance"],"verified":false},
+  {"id":7,"name":"QuickFix Plumbing","sic":"43220","sic_description":"Plumbing","category_group":"Home Services","description":"Emergency plumbing services","location":"London","tags":["plumbing","repair"],"verified":true},
+  {"id":8,"name":"BrightSpark Electrical","sic":"43210","sic_description":"Electrical installation","category_group":"Home Services","description":"Domestic electrical work","location":"London","tags":["electrician"],"verified":true},
+  {"id":9,"name":"City Cleaners","sic":"81210","sic_description":"Cleaning services","category_group":"Home Services","description":"Home and office cleaning","location":"London","tags":["cleaning"],"verified":false},
+  {"id":10,"name":"Digital Boost Agency","sic":"73110","sic_description":"Advertising agency","category_group":"Marketing","description":"SEO and social media marketing","location":"London","tags":["marketing","seo"],"verified":true},
+
+  {"id":11,"name":"FitLife Personal Training","sic":"93130","sic_description":"Fitness services","category_group":"Health & Wellness","description":"Personal fitness coaching","location":"London","tags":["fitness"],"verified":false},
+  {"id":12,"name":"MindCare Therapy","sic":"86900","sic_description":"Health services","category_group":"Health & Wellness","description":"Mental health therapy sessions","location":"London","tags":["therapy"],"verified":true},
+  {"id":13,"name":"DriveEasy School","sic":"85530","sic_description":"Driving school","category_group":"Education","description":"Driving lessons","location":"London","tags":["driving"],"verified":false},
+  {"id":14,"name":"FixMyPhone","sic":"95120","sic_description":"Repair services","category_group":"Digital & Technology","description":"Phone and tablet repair","location":"London","tags":["phone repair"],"verified":true},
+  {"id":15,"name":"EventPro UK","sic":"82302","sic_description":"Event management","category_group":"Events","description":"Corporate event planning","location":"London","tags":["events"],"verified":true}
+]
