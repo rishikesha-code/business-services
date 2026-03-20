@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"Health and Medical Service","sic":"","sic_description":"","category_group":"","description":"Health and medical services (Doctor, Veterinary, Pharmace)","location":"Edinburgh","tags":["Health","Medical","Pharmacy", "Doctor", "Veterinary"],"verified":true, "email": "sundeepmiya@yahoo.com",
+  "phone": ""},
+  {"id":2,"name":"Oxford Prestige College Ltd","sic":"85590","sic_description":"Other education not elsewhere classified","category_group":"Education & Training","description":"Education (11+, Uni admissions etc)","location":"Bromley, Greater London","tags":["Eduction","Admissions"],"verified":true, "email": "info@oxfordptestogecollege.co.uk",
+  "phone": "020 865 885 36"}
+]
