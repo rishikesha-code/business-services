@@ -1,4 +1,4 @@
-[
+  [
   {"id":1,"name":"Kaul Tech Solutions","sic":"62020","sic_description":"IT consultancy","category_group":"Digital & Technology","description":"Laptop repair, IT support, cloud services","location":"London","tags":["IT","repair","cloud"],"verified":true, "email": "test@test.com",
   "phone": "+44 20 7946 0011"},
   {"id":2,"name":"Bhat Catering Services","sic":"56210","sic_description":"Event catering","category_group":"Food & Hospitality","description":"Wedding and corporate catering","location":"London","tags":["catering","events","food"],"verified":true, "email": "test@test.com",
@@ -19,4 +19,4 @@
   "phone": "+44 20 7946 0011"},
   {"id":10,"name":"Digital Boost Agency","sic":"73110","sic_description":"Advertising agency","category_group":"Marketing","description":"SEO and social media marketing","location":"London","tags":["marketing","seo"],"verified":true, "email": "test@test.com",
   "phone": "+44 20 7946 0011"}
-]
+  ]
