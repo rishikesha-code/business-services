@@ -3,7 +3,7 @@
   "phone": "020 865 885 36"},
   {"id":2,"name":"Health and Medical Service","sic":"N/A","sic_description":"N/A","category_group":"N/A","description":"Health and medical services (Doctor, Veterinary, Pharmace)","location":"Edinburgh","tags":["Health","Medical","Pharmacy", "Doctor", "Veterinary"],"verified":true, "email": "sundeepmiya@yahoo.com",
   "phone": ""},
-  {"id":3,"name":"Nalanda Tutoring Academy","sic":"85590","sic_description":"N/A","category_group":"Education & Training","description":"Tutoring for KS3, GCSE, A-Level and Medical School Admissions.","location":"London","tags":["Education","KS3", "GCSE", "Medical School Admissions"],"verified":true, "email": "vidisha22.handoo@gmail.com",
+  {"id":3,"name":"Nalanda Tutoring Academy","sic":"85590","sic_description":"N/A","category_group":"Education & Training","description":"Tutoring for KS3, GCSE, A-Level and Medical School Admissions.","location":"London","tags":["Education","KS3", "GCSE", "Medical School", "Admissions"],"verified":true, "email": "vidisha22.handoo@gmail.com",
   "phone": "N/A"},
   {"id":4,"name":"Sharika Keys","sic":"N/A","sic_description":"N/A","category_group":"Music & Piano Classes","description":"Grade 8 pianist offering online piano classes for beginners","location":"Lewisham, Greater London","tags":["Piano","Music", "Online Lessons"],"verified":true, "email": "templefortune@gmail.com",
   "phone": "N/A"}
