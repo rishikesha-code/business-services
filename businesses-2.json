@@ -8,5 +8,7 @@
   {"id":4,"name":"Sharika Keys","sic":"N/A","sic_description":"N/A","category_group":"Music & Piano Classes","description":"Grade 8 pianist offering online piano classes for beginners","location":"Lewisham, Greater London","tags":["Piano","Music", "Online Lessons"],"member":true, "email": "templefortune@gmail.com",
   "phone": "N/A"},
   {"id":5,"name":"Greater London Financial Services Ltd","sic":"64999","sic_description":"Financial intermediation not elsewhere classified","category_group":"Financial & other professional services (Law, Accounting, Mortgage, Insurance etc)","description":"Mortgage & Insurance Advisor","location":"Rayleigh, Essex","tags":["Mortgages", "Financial Services", "Insurance", "Advisory"],"member":true, "email": "sandeep.lahori@glfsl.co.uk",
-  "phone": "Tel: 020 3576 7725 ; Mob: 077 0108 1752"}
+  "phone": "Tel: 020 3576 7725 ; Mob: 077 0108 1752"}, 
+  {"id":6,"name":"Compukonnect Ltd","sic":"85590","sic_description":"Other education not elsewhere classified","category_group":"Education & Training","description":"Provider in tuitions, art and coding lessons","location":"Croydon, Greater London","tags":["Education","Tuitions", "KS3", "Art Lessons", "Coding Lessons"],"member":false, "email": "compukonnect@gmail.com",
+  "phone": "Mob: 077 7819 6389"}
 ]
