@@ -10,5 +10,7 @@
   {"id":5,"name":"Greater London Financial Services Ltd","sic":"64999","sic_description":"Financial intermediation not elsewhere classified","category_group":"Financial & other professional services (Law, Accounting, Mortgage, Insurance etc)","description":"Mortgage & Insurance Advisor","location":"Rayleigh, Essex","tags":["Mortgages", "Financial Services", "Insurance", "Advisory"],"member":true, "email": "sandeep.lahori@glfsl.co.uk",
   "phone": "Tel: 020 3576 7725 ; Mob: 077 0108 1752"}, 
   {"id":6,"name":"Compukonnect Ltd","sic":"85590","sic_description":"Other education not elsewhere classified","category_group":"Education & Training","description":"Provider in tuitions, art and coding lessons","location":"Croydon, Greater London","tags":["Education","Tuitions", "KS3", "Art Lessons", "Coding Lessons"],"member":false, "email": "compukonnect@gmail.com",
-  "phone": "Mob: 077 7819 6389"}
+  "phone": "Mob: 077 7819 6389"},
+  {"id":7,"name":"Online Tuitions by Taniya","sic":"N/A","sic_description":"N/A","category_group":"Education & Training","description":"Provider in online tuitions, KS3, KS4, GCSE and A-Levels","location":"Cambridge","tags":["Education","Tuitions", "KS3", "KS4", "A-Levels", "GCSE", "Chemistry, Maths, Biology Lessons"],"member":false, "email": "capri_taniya@hotmail.com ; https://calendly.com/achemistrycoach",
+  "phone": "Mob: 075 5315 9511"}
 ]
